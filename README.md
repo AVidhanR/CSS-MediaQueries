@@ -34,4 +34,5 @@
 | >=1280px   | xl          |
 | >=1536px   | 2xl         |
 
+#### [Visit the website here](https://avidhanr.github.io/CSS-MediaQueries/)
 ###### By A VIdhan R (Thanks to freeCodeCamp)
